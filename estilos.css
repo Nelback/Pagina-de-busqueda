@@ -1,6 +1,7 @@
 html {
     background: #3C3D3C;
     overflow-x: hidden;
+    overflow-z: hidden;
 }
 
 .CajaBuscar .busca {
